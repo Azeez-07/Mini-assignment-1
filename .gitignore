@@ -1,0 +1,6 @@
+# Terraform main directory
+.terraform/
+
+# Terraform private key
+*.pem
+*.key
